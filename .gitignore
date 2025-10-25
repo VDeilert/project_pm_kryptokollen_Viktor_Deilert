@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+kafka_data
+.env
+
 # Distribution / packaging
 .Python
 build/
